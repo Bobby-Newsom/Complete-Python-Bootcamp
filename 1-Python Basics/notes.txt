@@ -1,0 +1,18 @@
+***SECTION 2***
+
+## single line comment
+
+'''
+multi-line comment
+'''
+
+indent commonly = 4 spaces
+
+line continuation: use a backslash to continue a statement to the next line
+
+multiple statements on the same line: separate statements with a semicolon
+
+variable names cannot begin with a number
+
+cannot type cast strings to int 
+
